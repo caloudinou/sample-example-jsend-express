@@ -1,1 +1,1 @@
-## simple implementation to jsend-express
+## sample implementation to jsend-express
